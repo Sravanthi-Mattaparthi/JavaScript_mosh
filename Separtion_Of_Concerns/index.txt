@@ -1,0 +1,6 @@
+Separation of concerns:
+
+In our programming if we want to separate our javascript code from html it is known as Separation of Concerns.
+we simply write our javascript code in separate file with extension as js  but not in script.
+
+We need to refer that file in our html, so that they work together.
