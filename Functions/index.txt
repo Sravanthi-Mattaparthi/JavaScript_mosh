@@ -1,0 +1,33 @@
+Functions:
+Functions are the basic building blocks of javascript
+They are the set of statements that performs the task
+
+syntax:
+
+function functionName() {
+
+}
+
+Example:
+function greet() {
+  console.log("Hello");
+}
+greet();
+
+
+//declaring the parameter and passing the argument
+
+function greets(name) {
+    console.log("Hello " + name);
+
+}
+greets("Sravanthi");
+
+//multiple parameter and arguments
+
+function greeting(name,lastName) {
+    console.log("Hello " + name + ' '+lastName);
+
+}
+greeting("Sravanthi", "Mattaparthi");
+
