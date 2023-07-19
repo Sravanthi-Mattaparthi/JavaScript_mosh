@@ -1,0 +1,53 @@
+Object:
+Objects are reference types.
+the reference types are
+1.Objects
+2.Arrays
+3.Functions
+
+example 
+let name ="Sravanthi";
+let age = 30;
+
+as these are relate to same person, to make them combine together , to represent them as single unit, we use Objects
+
+let person ={
+  name:sravanthi,
+  age:25,
+};
+
+
+to acess the properties we have two ways of notation
+1.Dot notation
+2.Bracket noatation
+
+1.Dot notation:
+
+let employee ={
+  name:"Satya",
+  age:30,
+};
+
+employee.age=25;
+employee.name="Akhil";
+console.log(employee.name);
+console.log(employee.age);
+
+
+2.Bracket notation:
+
+We use square brackets instead of dot . 
+we call the properties within single or double quotes 
+It is quite common to use  single quotes.
+If the key value is denoted with quotes in console also mention quotes
+
+
+
+
+let animal={
+  name:"dog",
+  bread: "golden retriver",
+};
+
+animal["bread"]="German Sheperd";
+console.log(animal["bread"]);
