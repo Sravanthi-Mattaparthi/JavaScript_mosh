@@ -1,0 +1,19 @@
+There two types of data types1.Primitive/Value
+2.Reference types
+
+
+Primitive type:
+String
+Number
+undefined
+null
+boolean
+
+
+Examples:
+
+var name="Sravanthi;      //String literal
+var age =25;              //number literal
+var isEngineer =true;     //boolean literal
+var firstName;            //undefined
+var lastName= null;        //if we want to explicityly make a value to be clear we will use null
