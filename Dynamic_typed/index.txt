@@ -1,0 +1,9 @@
+JavaScript is a dynamically typed language.
+One thing that separates js with other programming languages is js is dynamically typed lanaguage
+we cn change the vakue of a variable during run time.
+basically there are two types of languages
+
+
+1. Statically typed languages who's values are not changed further
+2.Dynamically typed languages
+
