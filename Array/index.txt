@@ -1,0 +1,49 @@
+Array:
+Array is a collection of elements, we can use for example list of colors, items in the card. 
+Unlike other programming languages array in js allows you to store different types.
+
+Array are declared with square brackets []
+Array index position always starts with 0
+
+Example:
+
+let seletedColors = ["red", "blue", "black", "white"];
+console.log(selectedColors);
+
+
+output in console:
+
+0: "red"
+1: "blue"
+2: "black"
+3: "white"
+length: 4
+
+
+//Accesing element through index position
+
+console.log(selectedColors[1]);
+
+output in console: blue
+
+//Extending the size of Array
+
+In js array are dynamic in nature 
+
+let transport = ["cars" , "Bikes"];
+transport[2]="Cycle";
+console.log(transport);
+
+Output in console:
+0: "cars"
+1: "Bikes"
+2: "Cycle"
+length: 3
+
+//Placing different type of element in array
+
+let transport = ["cars" , "Bikes"];
+transport[2]=100;
+console.log(transport);
+
+output in console:['cars', 'Bikes', 100]
