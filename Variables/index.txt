@@ -1,0 +1,32 @@
+Variables:
+Variables are used to store the data or value assigned to it.
+To declare variables we use "var" but it will be best practice to use let.
+As there are few problems with var.
+
+By default variables which are not assigned gives the console as undefined .
+
+Rules forvnaming Varibales:
+
+1.Should be meaningful
+2.It should not use any reserved keywords as if, else etc...
+3.Cnnot start with number.(1name())
+4. They cannot contain space or hyphen.(first name or first-name)
+example we can use camel notation
+firstName - first letter will be lowercase and second word will be uppercase
+5.are case sensitive
+
+Multiple variable declaration either in single line or multiple line
+
+firstName = "Sravanthi ", lastName =" Mattaparthi";
+
+            (or)
+
+let firstName= "Sravanthi";
+let lastName = "Mattaparthi";
+
+
+KeyPoint:
+
+If you don't want to reassign the value constant will be your choice
+If you want to assign value again use variabe.
+
