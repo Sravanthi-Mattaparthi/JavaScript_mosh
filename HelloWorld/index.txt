@@ -1,0 +1,11 @@
+Hello world is the first program for the all the beginners.
+
+Using JavaScript we can make our webpages more interactive
+
+JavaScript is a dynamically typed language
+
+We can use either single or double quotes, it will be best practice to go with double quotes
+
+For comments use // it will be ingored by the JavaScript engine 
+
+the comments whatever written inside the script tag they are not seen on UI or else on console.
